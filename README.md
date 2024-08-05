@@ -1,6 +1,6 @@
 ###  Hi there, I'm Sabrina!🍓
 - Computer Science student at the Centro Universitário de Brasília – Ceub.
-- Passionate aobut studying machine learning and AI. Programing enthusiast
+- Passionate about studying machine learning and AI. Programing enthusiast
 
 ## Languages e Tools 💻
 <div style="display: inline_block">
