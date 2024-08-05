@@ -19,8 +19,7 @@
   <a href="https://github.com/LittleSabs">
   <center>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LittleSabs&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
+  </center>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LittleSabs&layout=compact&langs_count=7&theme=radical"/> 
   </center>
 
