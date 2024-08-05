@@ -26,5 +26,6 @@
 </div>
 
 ## Reach me 💌
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sabrinavianna__/) 
+[![Gmail](https://img.shields.io/badge/-sabrina.vianna2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sabrina.vianna2005@gmail.com)](mailto:sabrina.vianna2005@gmail.com)
   
