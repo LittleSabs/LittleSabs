@@ -3,7 +3,7 @@
 - Passionate about studying machine learning and AI. Programing enthusiast and front-end lover
 
   <p align="center">
-  <img src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.giff" alt="GIF" width="400">
+  <img src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif" alt="GIF" width="400">
 
 ## Languages e Tools 💻
 <div style="display: inline_block">
