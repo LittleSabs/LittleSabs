@@ -3,11 +3,7 @@
 - Passionate about studying machine learning and AI. Programing enthusiast and front-end lover
 
   <p align="center">
-  <img src="https://i.pinimg.com/originals/00/8a/02/008a02e89562569705c2b30d465e1ba1.gif" alt="GIF" width="400">
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LittleSabs&label=Profile%20views&color=0e75b6&style=flat" alt="LittleSabs" />
-</p>
+  <img src="https://media.tenor.com/pBdSZujHiacAAAAM/tkthao219-bunny.gif" alt="GIF" width="400">
 
 ## Languages e Tools 💻
 <div style="display: inline_block">
