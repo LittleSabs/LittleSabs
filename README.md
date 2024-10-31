@@ -14,6 +14,8 @@
  <img align="center" alt="Git" height="60" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <img align="center" alt="Java" height="60" width="50" src=https://icongr.am/devicon/java-original.svg?size=128&color=currentColor>
 <img align="center" alt="PHP" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="center" alt="CSS" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="center" alt="HTML" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 
           
