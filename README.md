@@ -1,6 +1,7 @@
 ###  Hi there, I'm Sabrina!🍓
 - Computer Science student at the Centro Universitário de Brasília – Ceub.
 - Passionate about studying machine learning and AI. Programing enthusiast and front-end lover
+- Absolutely obsessed with python
 
   <p align="center">
   <img src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif" alt="GIF" width="400">
